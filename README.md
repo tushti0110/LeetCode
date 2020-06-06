@@ -1,4 +1,4 @@
 # LeetCode
 Leetcode Solutions
 Hello,
-This repository is dedicated to leetcode solutions to questions on algorithms.
+This repository will be containing solutions to algorithm based problems on LeetCode.
