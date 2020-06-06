@@ -1,0 +1,7 @@
+class Solution {
+    public boolean isPowerOfFour(int num) {
+        String baseChange = Integer.toString(num,4);
+        boolean res = baseChange.matches("^10*$");
+        return res;
+    }
+}
